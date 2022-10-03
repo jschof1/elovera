@@ -30,3 +30,8 @@ h2 {
   width: 120%;
   text-align: center;
 }
+
+.mc-field-group label {
+  color: white;
+  font-weight: bold;
+}
