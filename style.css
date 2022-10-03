@@ -1,10 +1,11 @@
 h1,
 h2 {
-  font-family: Lato;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #mc_embed_signup .helper_text {
   display: none !important;
+  padding: 10px 0 !important;
 }
 
 .brandingLogo {
@@ -14,8 +15,18 @@ h2 {
 h2 {
   font-size: 2em !important;
   text-align: center;
+  color: white;
+  padding-top: 21px !important;
 }
 
 .button {
   height: 60px !important;
+}
+
+#mce-success-response {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white !important;
+  width: 120%;
+  text-align: center;
 }
