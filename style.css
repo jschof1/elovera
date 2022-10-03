@@ -35,3 +35,11 @@ h2 {
   color: white;
   font-weight: bold;
 }
+
+img.img-size {
+  height: 100px;
+}
+
+.logo-img {
+  text-align: center;
+}
