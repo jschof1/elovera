@@ -1,3 +1,21 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
+}
+
+#mc_embed_signup .helper_text {
+  display: none !important;
+}
+
+.brandingLogo {
+  display: none !important;
+}
+
+h2 {
+  font-size: 2em !important;
+  text-align: center;
+}
+
+.button {
+  height: 60px !important;
 }
